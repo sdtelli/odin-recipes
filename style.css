@@ -1,0 +1,28 @@
+* {
+    background-color: #DCDCDC;
+}
+h1 {
+    font-family: 'Times New Roman', Times, Verdana, sans-serif;
+    color: #FF8C00;
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+  }    
+
+.special {
+    font-style: italic;
+}
