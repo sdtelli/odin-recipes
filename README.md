@@ -8,3 +8,5 @@ Recently, I had done some canning of apples so I decided to base my version of
 this project on a few of my favorite canning recipes.
 
 Feel free to leave feeback.
+
+Update: trying set up on a Mac.
